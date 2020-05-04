@@ -1,6 +1,6 @@
 # data_cache
 
-Application for data caching
+Application for data caching. Here I have made an API call for first time when App loads. I am saving that data into local file storage so next time when you open the App data gets loaded from File Storage instead of API. So basic data caching example, because nowadays App Performance meant a lot.
 
 ## Getting Started
 
